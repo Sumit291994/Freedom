@@ -1,0 +1,15 @@
+
+
+
+
+figure:hover{
+-webkit-transform: scale(1.2);
+-o-transform: scale(1.2);
+transform: scale(1.2);
+ transition: all 0s;
+ -webkit-transition: all 0s;
+ }
+h1{font:times ; color:blue ;text-align:center }
+h2{font:arial; color:red ; text-align:right}
+#sumit{font:times;color:orange; font-size:45px}
+.bansal{text-align:center}
